@@ -1,16 +1,19 @@
-//
-//  ContentView.swift
-//  Ten Year Challenge
-//
-//  Created by Lin Bo Rong on 2020/10/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+//        TabView {
+            G_E_M_View()
+                .tabItem {
+                    Image(systemName: "heart.circle.fill")
+                    Text("G.E.M")
+                }
+//            G_E_M_View()
+//                .tabItem {
+//                    Image(systemName: "globe")
+//                    Text("Internet")
+//                }
+//        }
     }
 }
 

@@ -13,6 +13,7 @@
 		9144542525445BE60093D59E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9144542425445BE60093D59E /* Preview Assets.xcassets */; };
 		9144543025445BE80093D59E /* Ten_Year_ChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9144542F25445BE80093D59E /* Ten_Year_ChallengeTests.swift */; };
 		9144543B25445BE80093D59E /* Ten_Year_ChallengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9144543A25445BE80093D59E /* Ten_Year_ChallengeUITests.swift */; };
+		9144544C25445C270093D59E /* G.E.M.View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9144544B25445C270093D59E /* G.E.M.View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		9144543625445BE80093D59E /* Ten Year ChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ten Year ChallengeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9144543A25445BE80093D59E /* Ten_Year_ChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ten_Year_ChallengeUITests.swift; sourceTree = "<group>"; };
 		9144543C25445BE80093D59E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9144544B25445C270093D59E /* G.E.M.View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = G.E.M.View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				9144541D25445BDE0093D59E /* Ten_Year_ChallengeApp.swift */,
 				9144541F25445BDE0093D59E /* ContentView.swift */,
+				9144544B25445C270093D59E /* G.E.M.View.swift */,
 				9144542125445BE60093D59E /* Assets.xcassets */,
 				9144542625445BE60093D59E /* Info.plist */,
 				9144542325445BE60093D59E /* Preview Content */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9144544C25445C270093D59E /* G.E.M.View.swift in Sources */,
 				9144542025445BDE0093D59E /* ContentView.swift in Sources */,
 				9144541E25445BDE0093D59E /* Ten_Year_ChallengeApp.swift in Sources */,
 			);
